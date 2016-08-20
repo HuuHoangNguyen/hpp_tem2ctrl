@@ -1,0 +1,11 @@
+#
+#========================================================
+# Project	: hpp_tem2ctrl
+# File 		: VERSION
+# Date		: Jan 13, 2016
+# Author	: HuuHoang Nguyen
+# Contact	: hhnguyen@apm.com
+#          	: hoangnh.hpp@gmail.com
+#========================================================
+#
+hpp_tem2ctrl_version = 2.0
